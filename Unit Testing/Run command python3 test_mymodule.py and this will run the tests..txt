@@ -1,0 +1,5 @@
+Run command:
+
+python3 test_mymodule.py 
+
+and this will run the tests.
