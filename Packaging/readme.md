@@ -29,4 +29,12 @@ from . import module1
 from . import module2
 ```
 
+your directory structure should look like this:
+```
+mypackage
+mypackage/__init__.py
+mypackage/module1.py
+mypackage/module2.py
+```
+
 After creating the package, you can use it in other scripts if the package folder is in the same directory.
